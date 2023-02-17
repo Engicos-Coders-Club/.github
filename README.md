@@ -1,4 +1,4 @@
-![cropped banner](https://user-images.githubusercontent.com/88930014/219591685-b0479fd2-9a67-44e7-a93e-684fc3aaef48.gif)
+![ezgif com-crop](https://user-images.githubusercontent.com/88930014/219607901-fdd3e611-1a5c-48d4-9b55-f31edefe94b4.gif)
 
 ### A one-stop for all those interested in coding - beginners or experts. You ask, we provide.
 ---
