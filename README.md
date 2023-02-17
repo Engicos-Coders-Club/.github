@@ -26,7 +26,9 @@
 
 ---
 
-# Objectives 🎯
+<img align='left' src='https://user-images.githubusercontent.com/88930014/219597007-74c15963-61b6-429c-95d3-d353ea654cbf.gif' width='180'>
+
+<br>
 
 <img align='right' src='https://user-images.githubusercontent.com/88930014/219593725-56515b6e-a472-4726-afbc-cdfd08069c4c.gif' width='250'>
 
