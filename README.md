@@ -1,6 +1,7 @@
 ![ezgif com-crop](https://user-images.githubusercontent.com/88930014/219607901-fdd3e611-1a5c-48d4-9b55-f31edefe94b4.gif)
 
-### A one-stop for all those interested in coding - beginners or experts. You ask, we provide.
+### Coders' Club is a student-run club within GEC, that helps grow the technical community in the college and nurtures the development of relevant skills. We aim to encourage students to learn and teach, while also building projects that make a positive impact.
+### This Org is a reflection of all projects undertaken by the Coders' Club and its members. With the help of these projects, we aim to provide exposure to students towards Open Source, Team Work and just having fun while hacking!
 ---
 
 ### Join the Community! Everybody is welcome 🌈
@@ -8,10 +9,7 @@
 <p align="left">
 <a href="mailto:codersclub.gec@gmail.com" style="text-decoration:none">
   <img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=fsocial&logo=gmail&logoColor=white">
-</a>
-  <a href="#" style="text-decoration:none">
-  <img height="25" src="https://img.shields.io/badge/discord-darkblue.svg?&style=fsocial&logo=discord&logoColor=white" />
-</a>
+  </a>
 <a href="https://www.linkedin.com/company/gec-coders-club/" style="text-decoration:none">
   <img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=fsocial&logo=linkedin&logoColor=white" />
 </a>
