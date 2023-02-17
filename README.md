@@ -6,7 +6,7 @@
 ### Join the Community! Everybody is welcome 🌈
 
 <p align="left">
-<a href="mailto:designandcode.community@gmail.com" style="text-decoration:none">
+<a href="mailto:codersclub.gec@gmail.com" style="text-decoration:none">
   <img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=fsocial&logo=gmail&logoColor=white">
 </a>
   <a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
@@ -28,7 +28,7 @@
 
 # Objectives 🎯
 
-
+<img align='right' src='https://user-images.githubusercontent.com/88930014/219593725-56515b6e-a472-4726-afbc-cdfd08069c4c.gif' width='250'>
 
 ### __Conduct trainings__ 👨🏼‍💻
  Hands on Sessions, Contests and Hackathons!
